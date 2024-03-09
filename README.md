@@ -6,4 +6,4 @@ Learning how to make jungle/dnb.
 
 Currently working in Godot/GDScript
 
-Reach me on Youtube or SoundCloud @ youtube.com/@Xeranicttv or https://soundcloud.com/xeranic
+Reach me on Youtube or SoundCloud @ https://youtube.com/@Xeranicttv or https://soundcloud.com/xeranic
